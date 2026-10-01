@@ -1,11 +1,11 @@
 <div align="center">
-<img src="./12-hero-account.gif" alt="Ajeet Gupta animated hello" width="100%"/>
+<img src="./19-hero-current.gif" alt="Ajeet Gupta animated hello" width="100%"/>
 <br/><br/>
 <img src="./8-about-life.gif" alt="What I build and life beyond code" width="100%"/>
 <br/><br/>
-<img src="./9-stack.gif" alt="Tools I build with" width="100%"/>
+<img src="./18-stack-skills.gif" alt="Tools I build with" width="100%"/>
 <br/><br/>
-<img src="./13-id-dashboard-account.gif" alt="Developer ID and public GitHub snapshot" width="100%"/>
+<img src="./20-id-dashboard-current.gif" alt="Developer ID and GitHub account snapshot" width="100%"/>
 </div>
 
 ## Featured builds
