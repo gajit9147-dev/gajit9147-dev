@@ -17,15 +17,7 @@
 
 <!-- Contribution-city image intentionally omitted until the proposal is approved and a first run succeeds. -->
 
-<div align="center">
-<img src="./11-connect.gif" alt="Let's connect" width="100%"/>
-
-<p>
-<a href="https://github.com/gajit9147-dev"><img src="./14-contact-github.png" alt="GitHub: gajit9147-dev" width="45%"/></a>
-<a href="mailto:ajeetgupta80045@gmail.com"><img src="./15-contact-email.png" alt="Email: ajeetgupta80045@gmail.com" width="45%"/></a><br/>
-<a href="https://www.instagram.com/_ajeetgupta_07/"><img src="./16-contact-instagram.png" alt="Instagram: _ajeetgupta_07" width="45%"/></a>
-<a href="https://www.linkedin.com/in/ajeet-gupta-970478273/"><img src="./17-contact-linkedin.png" alt="LinkedIn: Ajeet Gupta" width="45%"/></a>
-</p>
+<div align="center"><img alt="Connect card" align="top" src="./8-connect-top.gif" width="100%"/><br/><img alt="Connect card" align="top" src="./5-connect-left-one.gif" width="34.375%"/><a href="https://github.com/gajit9147-dev"><img alt="Connect card" align="top" src="./3-connect-github.gif" width="31.041667%"/></a><a href="mailto:ajeetgupta80045@gmail.com"><img alt="Connect card" align="top" src="./2-connect-email.gif" width="34.583333%"/></a><br/><img alt="Connect card" align="top" src="./6-connect-left-two.gif" width="34.375%"/><a href="https://www.instagram.com/_ajeetgupta_07/"><img alt="Connect card" align="top" src="./4-connect-instagram.gif" width="31.041667%"/></a><a href="https://www.linkedin.com/in/ajeet-gupta-970478273/"><img alt="Connect card" align="top" src="./7-connect-linkedin.gif" width="34.583333%"/></a><br/><img alt="Connect card" align="top" src="./1-connect-bottom.gif" width="100%"/>
 
 Build. Learn. Repeat.
 </div>
