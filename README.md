@@ -1,11 +1,11 @@
 <div align="center">
-<img src="./7-hero.gif" alt="Ajeet Gupta animated hello" width="100%"/>
+<img src="./12-hero-account.gif" alt="Ajeet Gupta animated hello" width="100%"/>
 <br/><br/>
 <img src="./8-about-life.gif" alt="What I build and life beyond code" width="100%"/>
 <br/><br/>
 <img src="./9-stack.gif" alt="Tools I build with" width="100%"/>
 <br/><br/>
-<img src="./10-id-dashboard.gif" alt="Developer ID and public GitHub snapshot" width="100%"/>
+<img src="./13-id-dashboard-account.gif" alt="Developer ID and public GitHub snapshot" width="100%"/>
 </div>
 
 ## Featured builds
@@ -20,7 +20,12 @@
 <div align="center">
 <img src="./11-connect.gif" alt="Let's connect" width="100%"/>
 
-[GitHub](https://github.com/gajit9147-dev) · [Email](mailto:ajeetgupta80045@gmail.com) · [Instagram](https://www.instagram.com/_ajeetgupta_07/) · [LinkedIn](https://www.linkedin.com/in/ajeet-gupta-970478273/)
+<p>
+<a href="https://github.com/gajit9147-dev"><img src="./14-contact-github.png" alt="GitHub: gajit9147-dev" width="45%"/></a>
+<a href="mailto:ajeetgupta80045@gmail.com"><img src="./15-contact-email.png" alt="Email: ajeetgupta80045@gmail.com" width="45%"/></a><br/>
+<a href="https://www.instagram.com/_ajeetgupta_07/"><img src="./16-contact-instagram.png" alt="Instagram: _ajeetgupta_07" width="45%"/></a>
+<a href="https://www.linkedin.com/in/ajeet-gupta-970478273/"><img src="./17-contact-linkedin.png" alt="LinkedIn: Ajeet Gupta" width="45%"/></a>
+</p>
 
 Build. Learn. Repeat.
 </div>
